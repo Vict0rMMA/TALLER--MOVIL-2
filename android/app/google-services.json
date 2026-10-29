@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730722179226",
+    "project_id": "sampletrack-g62",
+    "storage_bucket": "sampletrack-g62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730722179226:android:9b958215e7afecb44ce723",
+        "android_client_info": {
+          "package_name": "co.edu.udem.sample_track_shell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBixFB6Cdhl4BsrDXjQ2XNKoRMdT7G8aD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "sampletrack-g62",
+          "appId": "1:730722179226:android:9b958215e7afecb44ce723",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "sampletrack-g62",
+          "configurations": {
+            "android": "1:730722179226:android:9b958215e7afecb44ce723"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}
